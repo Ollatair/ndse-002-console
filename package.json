@@ -1,0 +1,14 @@
+{
+  "name": "ndse-002-console",
+  "version": "1.0.0",
+  "description": "# Домашнее задание к занятию «1.2 Аргументы командной строки и console»",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
