@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "bin": {
+    "cmd-date": "date.js",
+    "cmd-game": "game.js"
+  },
   "dependencies": {
     "yargs": "^17.7.2"
   }
